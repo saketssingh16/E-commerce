@@ -2,7 +2,7 @@ const products = [
     {
       id: 1,
       name: "Sneakers",
-      price: 59.99,
+      price: 100.99,
       image: "https://via.placeholder.com/250x150?text=Sneakers"
     },
     {
@@ -14,7 +14,7 @@ const products = [
     {
       id: 3,
       name: "Headphones",
-      price: 89.99,
+      price: 250.99,
       image: "https://via.placeholder.com/250x150?text=Headphones"
     }
   ];
